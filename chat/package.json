@@ -1,0 +1,13 @@
+{
+  "name": "aigateway-chat-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env index.mjs"
+  },
+  "dependencies": {
+    "openai": "^5.0.0"
+  },
+  "engines": { "node": ">=20" }
+}
