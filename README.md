@@ -22,7 +22,7 @@ Then any example below runs with that env var in scope.
 
 ## One-click Vercel deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frakesh1002%2Fai-gateway-examples%2Ftree%2Fmain%2Fchat&env=AIGATEWAY_API_KEY&envDescription=Get%20one%20at%20aigateway.sh%2Fsignin&envLink=https%3A%2F%2Faigateway.sh%2Fsignin&project-name=aigateway-chat-starter&repository-name=aigateway-chat-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRakesh1002%2Fai-gateway-examples%2Ftree%2Fmain%2Fchat&env=AIGATEWAY_API_KEY&envDescription=Get%20one%20at%20aigateway.sh%2Fsignin&envLink=https%3A%2F%2Faigateway.sh%2Fsignin&project-name=aigateway-chat-starter&repository-name=aigateway-chat-starter)
 
 Click → fork the public examples repo → set `AIGATEWAY_API_KEY` → live in 60 seconds. Swap `chat` in the URL with `image`, `voice`, `embeddings`, or `multimodal-agent` for the other starters.
 
@@ -34,7 +34,7 @@ If you build something interesting, email **hello@aigateway.sh** with a link —
 
 ## Bug reports + feature requests
 
-**support@aigateway.sh** · [@buildwithrakesh](https://x.com/buildwithrakesh) · [LinkedIn](https://www.linkedin.com/in/buildwithrakesh)
+**support@aigateway.sh** · [@buildwithrakesh](https://x.com/buildwithrakesh) · [LinkedIn](https://www.linkedin.com/in/rakeshroushan1002)
 
 ## License
 
